@@ -41,6 +41,7 @@ public abstract class Duck {
         return type;
     }
 
+
     public void setType(DuckType type) {
         this.type = type;
     }
